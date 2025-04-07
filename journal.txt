@@ -1,0 +1,7 @@
+this is to tract the ideas i have during this project
+
+i wanna judge sentiments and find their influence on
+some factor - im thinking how twitter or reddit or
+news sentiments affect crypto prices but i dont
+think there's a big correlation at the moment 
+(based on the few research papers i read online)
