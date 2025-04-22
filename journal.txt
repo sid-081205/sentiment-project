@@ -1,7 +1,41 @@
 this is to tract the ideas i have during this project
 
-i wanna judge sentiments and find their influence on
-some factor - im thinking how twitter or reddit or
-news sentiments affect crypto prices but i dont
-think there's a big correlation at the moment 
+7/4/2025
+
+i wanna judge sentiments and find their influence on some factor - im thinking how twitter or reddit or
+news sentiments affect crypto prices but i dont think there's a big correlation at the moment 
 (based on the few research papers i read online)
+
+i think i'll weigh sentiments according to likes/upvotes/some other metric
+and then judge sentiments. the only issue is creating this weighing - i think lets do twitter.
+
+my friend gave me an interesting perspective - HYPE. for short term fluctuations, he says the
+sentiment holds much less importance and the hype drives short term behavior
+
+20/4/2025
+
+ok im not that fond of doing cypto anymore - it's too variable and fluctuates based on too many factors.
+also read a bunch of research papers which don't help the case. so what do i do know?
+
+ok oil prices might be interesting and how they relate to news sentiment
+
+OK NO THE YFINANCE API IS CRAZY IT HAS SO MUCH DATA
+
+21/4/2025
+
+ok the yfinance thing is working but i'm having trouble in saving all the date and news articles in a discoinatry.
+pythong does not alow sof rduplicates in keys of a dicionary so i'm thinking of putting all the news articles of one date in one key value
+
+that worked out - make the sentiment thing too and put that all in one database, this was quick.
+
+not sure about what to do with the missing sentiment values and concentration of data now
+
+22/4/2025
+
+so i don't think averaging out the senitment values to
+find a sentimetn value for each month is the way
+
+i don't see any correlation with average monthly sentiemtns and oil prices
+probably expected beause all the positive news just compensates for the negative news
+
+need a different way for judging sentiment - vader might not be the way
