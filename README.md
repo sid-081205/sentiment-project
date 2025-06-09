@@ -12,5 +12,5 @@
 
 ## tl;dr
 
-- code works, data flows, but insights are meh. need more stats.
+- code works, data flows, learnt a lot about text analysis but insights are meh. need more stats analysis
 
